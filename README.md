@@ -1,2 +1,2 @@
 # paginaprueba
-Prueba de la pagina web
+Ejemplo de pagina web
